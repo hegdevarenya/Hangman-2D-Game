@@ -1,0 +1,44 @@
+Regular : सामान्य
+Advance : उन्नत
+Greedy : लालची
+Revenge : वैरशोधन
+Harsh : कठोर
+Cost : लागत
+Spoil : खराब कर देना
+Identify : पहचानना
+Goal : लक्ष्य
+Praise : प्रशंसा
+Necessity : आवश्यकता
+Tolerate : बर्दाश्त करना
+Infuriate : क्रुद्ध करना
+Honest : सत्यवादी
+Neighbour : पड़ोसी
+Exception : अपवाद
+Imitate : अनुकरण करना
+Intention : आशय
+Flexible : लचीला
+Vicious : दुष्ट 
+Fortunate : भाग्यशाली
+Weak : दुर्बल
+Enemy : दुश्मन
+effect : प्रभाव
+Demand : माँग
+Accurate : सटीक
+Arrogant : अहंकारी
+Learn : सीखना
+Spend : खर्च करना
+Hesitate : संकोच करना
+Bother : तंग करना
+Rotten : सड़ा हुआ
+Innocent : मासूम
+Guilty : दोषी
+Perhaps : शायद
+Faithful : वफादार
+Blame : दोष देना
+Rely : भरोसा करना
+Actually : दरअसल
+Destroy : बर्बाद करना
+Wink : आँख मारना
+Burden : बोझ
+Wise : समझदार
+Agree : सहमत होना
